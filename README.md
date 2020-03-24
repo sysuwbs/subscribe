@@ -14,5 +14,5 @@ open https://app.netlify.com
   
   #publish dir:    link
   
-subcribe link : 
+subcribe link : https://0324.netlify.com
 

@@ -1,3 +1,4 @@
+trojan://QkxJPTkWg3@lqoo.xyz:60006#trojan60006
 vless://92c97430-55fd-42cc-e43d-97608b0d4684@lqoo.xyz:50010?type=ws&security=tls&path=%2Fcc50010&sni=lqoo.xyz#cc50010
 vless://7ed4bea6-293b-41c7-a917-abb492d64d84@vless.lqoo.xyz:443?path=%2Fa74389c8bfdd%2F&security=tls&encryption=none&type=ws#vless443
 vless://bd8e2461-84ff-11ec-8a0a-0242ac110005@lqoo.xyz:60003?flow=xtls-rprx-origin&security=xtls&sni=lqoo.xyz#xray-xtls
